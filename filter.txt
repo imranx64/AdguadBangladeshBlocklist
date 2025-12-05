@@ -1,0 +1,58 @@
+!
+! Title: Imran's Bangladeshi blocklists
+! Description: Broom - Protects your privacy! Blocks Bangladeshi Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
+! Version: 1.0.24.53
+! Homepage:
+! Last modified: 05-12-2025
+!
+! Compiled by @adguard/hostlist-compiler v1.0.35
+!
+||waltonffpo^
+||hindustantimes.com^
+||zeenews.india.com^
+||livemint.com^
+||republicworld.com^
+||indiatoday.in^
+||bengali.abplive.com^
+||aajtak.in^
+||ani.in^
+||ndtv.com^
+||economictimes.indiatimes.com^
+||indianexpress.com^
+||firstpost.com^
+||opindia.com^
+||freepressjournal.in^
+||mirrornownews.com^
+||india.com^
+||timesofindia.indiatimes.com^
+||rt.com/india^
+||sangbadpratidin.in^
+||zeenews.india.com/bengali^
+||theprint.in^
+||thestatesman.com^
+||wionews.com^
+||oneindia.com^
+||news18.com^
+||thewire.in^
+||financialexpress.com^
+||eimuhurteonline.com^
+||mathrubhumi.com^
+||news9live.com^
+||calcuttanews.tv^
+||headlinetripura.com^
+||timesnownews.com^
+||thewall.in^
+||news24online.com^
+||puberkalom.com^
+||tribuneindia.com^
+||neindiabroadcast.com^
+||business-standard.com^
+||tv9bharatvarsh.com^
+||lokmattimes.com^
+||ptcnews.tv^
+||newsx.com^
+||thetatva.in^
+||swarajyamag.com^
+||newsbytesapp.com^
+||vibesofindia.com^
+||bartamanpatrika.com^
