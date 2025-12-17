@@ -1,11 +1,11 @@
 !
 ! Title: Imran's Bangladeshi blocklists
 ! Description: Broom - Protects your privacy! Blocks Bangladeshi Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
-! Version: 1.0.24.53
+! Version: Self
 ! Homepage:
 ! Last modified: 05-12-2025
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @manual_Self
 !
 ||waltonffpo^
 ||hindustantimes.com^
